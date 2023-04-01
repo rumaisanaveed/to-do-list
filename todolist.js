@@ -44,9 +44,3 @@ function addtasks() {
     // Clear the input field
     document.getElementById('taskbtn').value = '';
 }
-
-
-  
-
-  
-  
